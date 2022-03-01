@@ -11150,7 +11150,7 @@ llllllllllllll  lllllllllllllllllll
 EOF
         ;;
  #this is my own ascii art to use it insert the name custom  in the config of neofetch         
-                "custom"*)
+                "slime"*)
             set_colors 7 10 6 1 2
             read -rd '' ascii_data <<'EOF'
 ${c1}  
