@@ -11,9 +11,10 @@ the ascii art start at line 11152.
 
 
 # Installation 
-`git clone`
-`mv /~the-neofetch-file /bin`
-
+```
+git clone
+mv /~the-neofetch-file /bin
+```
 then in `/.config/neofetch/config.conf`
 to use it add `ascii_distro="slime"`.
 
